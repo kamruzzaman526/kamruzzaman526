@@ -1,4 +1,4 @@
-Myself Md Kamruzzaman ?
+##Myself Md Kamruzzaman
 I am a fourth-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
 I am an open-source Contributor and a web development addict.
 
@@ -43,7 +43,3 @@ Here are some ideas to get you started:
  
 <div align="center">
 
-## 🌐 Socials:
-
- 
-https://drive.google.com/drive/folders/1GDqTEacH6j2iJt--qsaag4x7Mxa87tq3?usp=sharing
