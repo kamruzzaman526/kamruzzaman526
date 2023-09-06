@@ -1,6 +1,6 @@
 ## Myself Md Kamruzzaman
 I am a fourth-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
-I am an open-source Contributor and a web development addict.
+I am an open-source Contributor and a machine learning addict. I love C++ and python.
 
 <!--
 **kamruzzaman526/kamruzzaman526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
